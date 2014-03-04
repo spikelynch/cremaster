@@ -1,0 +1,14 @@
+body { background-color: white }
+h1 { text-align: center }
+td p { font-size: 80% }
+p.category { font-size: 80%; 
+		     font-weight: bold }
+th { font-style: italic; font-weight: bold; 
+	 border-bottom: solid 1px #9cc;
+	 padding: 0.5em	}
+table { border-collapse: collapse  }
+td { border-bottom: solid 1px #9cc; padding: 0.5em }
+a:link { color:#088 }
+a:visited { color:#044 }
+a:active { color: #0ff }
+
